@@ -1,6 +1,3 @@
-Since I used an other way to solve the puzzle this code wont work with the starter kit that was provided, so to check the code you have to run it manually
-you should get this outcome:
-
 [3 2 2 2 1 1 1 2 2 1 1 2 1 2 1 1 2]
 OK, the sum of all pieces, 27
 matches with the dimension of the cube 3**3=27
